@@ -1,0 +1,4 @@
+ORIG_PN="MarkupSafe"
+inherit distutils
+
+DOCS="README.rst"
