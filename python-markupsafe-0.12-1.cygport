@@ -1,11 +1,6 @@
 ORIG_PN="MarkupSafe"
-inherit distutils-multi
+inherit python-distutils
 
-
-PKG_NAMES="${PN} python3-markupsafe"
-PKG_HINTS="setup setup3k"
-python_markupsafe_CONTENTS=${PYTHON_SITELIB#/}" usr/share/doc/"
-python3_markupsafe_CONTENTS=${PYTHON3_SITELIB#/}
 
 DOCS="README.rst"
 
