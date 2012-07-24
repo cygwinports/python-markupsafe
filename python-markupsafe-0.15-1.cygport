@@ -1,0 +1,9 @@
+ORIG_PN="MarkupSafe"
+inherit python-distutils
+
+CATEGORY="Python"
+SUMMARY="Python XML/HTML safe string module"
+DESCRIPTION="Implements a XML/HTML/XHTML Markup safe string for Python"
+
+DOCS="README.rst"
+

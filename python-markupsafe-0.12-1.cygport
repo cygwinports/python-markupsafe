@@ -1,6 +1,0 @@
-ORIG_PN="MarkupSafe"
-inherit python-distutils
-
-
-DOCS="README.rst"
-
