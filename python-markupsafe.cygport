@@ -2,8 +2,8 @@ ORIG_PN="MarkupSafe"
 inherit python-distutils
 
 NAME="python-markupsafe"
-VERSION=0.15
-RELEASE=2
+VERSION=0.23
+RELEASE=1
 CATEGORY="Python"
 SUMMARY="Python XML/HTML safe string module"
 DESCRIPTION="Implements a XML/HTML/XHTML Markup safe string for Python"
