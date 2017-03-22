@@ -10,3 +10,4 @@ DESCRIPTION="Implements a XML/HTML/XHTML Markup safe string for Python"
 
 DOCS="README.rst"
 
+python_markupsafe_debuginfo_OBSOLETES="python3-markupsafe-debuginfo"
